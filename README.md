@@ -47,7 +47,7 @@
 ## 🚀 Projects
 
 ### [React-Based E-Commerce Platform](https://github.com/nkrisnaraj/Project-1)
-**Sept 2022 – present**  
+** oct 2024 – jan 2025**  
 • Developed an intuitive platform allowing users to browse products, manage carts, and view real-time updates.  
 • Implemented a review and rating system for better customer experience.  
 • Designed an optimized database schema for efficient product and order management.  
