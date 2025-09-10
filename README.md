@@ -106,6 +106,21 @@ A role-based web application streamlining educational institution management.
 
 ---
 
+## 📚 My Repositories
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=Project-1&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/Project-1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=School-Management-System&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/School-Management-System)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=nkrisnaraj&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/nkrisnaraj)
+
+</div>
+
+*Explore more of my repositories on [my GitHub profile](https://github.com/nkrisnaraj?tab=repositories)*
+
+---
+
 ## 🎓 Education & Timeline
 
 <div align="center">
