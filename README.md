@@ -76,16 +76,17 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 [React-Based E-Commerce Platform](https://github.com/nkrisnaraj/Project-1)
+### 🛒 [EliteZ - B2B E-Commerce Platform](https://github.com/nkrisnaraj/Project-1)
 **October 2024 – January 2025**
 
-A comprehensive e-commerce solution with modern UI/UX and robust functionality.
+A comprehensive B2B e-commerce and inventory management platform connecting manufacturers with retailers for seamless product distribution and order management.
 
 **✨ Key Features:**
 - 🛍️ Intuitive product browsing and cart management
 - ⭐ Interactive review and rating system
 - 📱 Responsive design for all devices
 - 🔄 Real-time inventory updates
+- 📊 Analytics and communication tools
 
 **🛠️ Tech Stack:** `React` `PHP` `MySQL`
 
@@ -106,6 +107,111 @@ A role-based web application streamlining educational institution management.
 
 ---
 
+### 💼 [EduConnect Payment & Webinar System](https://github.com/nkrisnaraj/educonnect-system)
+**May 2025 – Present**
+
+Automated payment verification and webinar integration system for educational institutions.
+
+**✨ Key Features:**
+- 💳 Automated payment verification
+- 🎥 Webinar integration and management
+- 🔐 Secure transaction processing
+- 📊 Real-time analytics and reporting
+
+**🛠️ Tech Stack:** `JavaScript` `Node.js` `Payment APIs`
+
+---
+
+### 📱 [React Dashboard Application](https://github.com/nkrisnaraj/react-dashboard-app)
+**August 2025**
+
+Dynamic React dashboard with modern UI components and cloud integration.
+
+**✨ Key Features:**
+- 📊 Interactive data visualization
+- ☁️ Cloudinary integration for media management
+- 🎨 Tailwind CSS for modern styling
+- 📱 Responsive design patterns
+
+**🛠️ Tech Stack:** `React` `JavaScript` `Tailwind CSS` `Cloudinary`
+
+---
+
+### 🚌 [Bus Ticket Web Application](https://github.com/nkrisnaraj/bus-ticket-webapp)
+**January 2025**
+
+Online bus ticket booking system with real-time seat availability and booking management.
+
+**✨ Key Features:**
+- 🎫 Real-time ticket booking
+- 🪑 Interactive seat selection
+- 💳 Secure payment processing
+- 📱 Mobile-responsive interface
+
+**🛠️ Tech Stack:** `JavaScript` `HTML5` `CSS3` `Backend APIs`
+
+---
+
+### 🎓 [Online Learning System](https://github.com/nkrisnaraj/Online_learning_system)
+**November 2024**
+
+Console-based learning management system developed in C as a collaborative group project.
+
+**✨ Key Features:**
+- 👥 Multi-user role management
+- 📚 Course and content management
+- 📊 Progress tracking and reporting
+- 🔐 User authentication system
+
+**🛠️ Tech Stack:** `C Language` `Console Application`
+
+---
+
+### 📧 [Email BCC Management Tool](https://github.com/nkrisnaraj/mail-Bcc)
+**November 2024**
+
+JavaScript utility for managing email BCC functionality with enhanced privacy features.
+
+**✨ Key Features:**
+- 📧 Automated BCC management
+- 🔒 Privacy protection features
+- ⚡ Fast email processing
+- 🔧 Configurable settings
+
+**🛠️ Tech Stack:** `JavaScript` `Email APIs`
+
+---
+
+### 🎉 [Events App - React Native & Django](https://github.com/nkrisnaraj/events_app-ReactNative-Django)
+**December 2024**
+
+Cross-platform mobile application for event management with Django backend.
+
+**✨ Key Features:**
+- 📱 Cross-platform mobile app
+- 🎪 Event creation and management
+- 👥 User registration and profiles
+- 🔄 Real-time synchronization
+
+**🛠️ Tech Stack:** `React Native` `Django` `JavaScript` `Python`
+
+---
+
+### 🕐 [Analog Clock Design](https://github.com/nkrisnaraj/Analog_clock)
+**January 2024**
+
+Pure CSS animated analog clock with modern design elements.
+
+**✨ Key Features:**
+- 🎨 Pure CSS animations
+- ⏰ Real-time clock functionality
+- 📱 Responsive design
+- 🎭 Modern visual effects
+
+**🛠️ Tech Stack:** `HTML5` `CSS3` `JavaScript`
+
+---
+
 ## 📚 My Repositories
 
 <div align="center">
@@ -113,6 +219,16 @@ A role-based web application streamlining educational institution management.
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=Project-1&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/Project-1)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=School-Management-System&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/School-Management-System)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=educonnect-system&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/educonnect-system)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=react-dashboard-app&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/react-dashboard-app)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=bus-ticket-webapp&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/bus-ticket-webapp)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=events_app-ReactNative-Django&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/events_app-ReactNative-Django)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=Online_learning_system&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/Online_learning_system)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=mail-Bcc&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/mail-Bcc)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=Analog_clock&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/Analog_clock)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=nkrisnaraj&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/nkrisnaraj)
 
 </div>
