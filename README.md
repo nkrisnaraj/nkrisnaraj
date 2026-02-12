@@ -256,11 +256,12 @@ Pure CSS animated analog clock with modern design elements.
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity & Contributions
 
-[![Krisnaraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nkrisnaraj&theme=react-dark&hide_border=true)](https://github.com/nkrisnaraj)
+<div align="center">
 
----
+### 📅 Contribution Calendar
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nkrisnaraj&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)
 
 ## 🤝 Let's Connect
 
