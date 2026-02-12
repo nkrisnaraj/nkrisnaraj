@@ -216,20 +216,18 @@ Pure CSS animated analog clock with modern design elements.
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=Project-1&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/Project-1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=School-Management-System&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/School-Management-System)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=educonnect-system&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/educonnect-system)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=react-dashboard-app&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/react-dashboard-app)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=bus-ticket-webapp&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/bus-ticket-webapp)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=events_app-ReactNative-Django&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/events_app-ReactNative-Django)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=Online_learning_system&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/Online_learning_system)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=mail-Bcc&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/mail-Bcc)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=Analog_clock&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/Analog_clock)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nkrisnaraj&repo=nkrisnaraj&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/nkrisnaraj/nkrisnaraj)
+| Repository | Description | Tech Stack |
+|------------|-------------|------------|
+| 🛒 **[EliteZ - B2B Platform](https://github.com/nkrisnaraj/Project-1)** | B2B e-commerce and inventory management | React, PHP, MySQL |
+| 🏫 **[School Management System](https://github.com/nkrisnaraj/School-Management-System)** | Role-based educational management | PHP OOP, MySQL, JavaScript |
+| 💼 **[EduConnect System](https://github.com/nkrisnaraj/educonnect-system)** | Payment verification & webinar integration | Node.js, JavaScript, APIs |
+| 📊 **[React Dashboard App](https://github.com/nkrisnaraj/react-dashboard-app)** | Modern dashboard with cloud integration | React, Tailwind CSS, Cloudinary |
+| 🚌 **[Bus Ticket WebApp](https://github.com/nkrisnaraj/bus-ticket-webapp)** | Online ticket booking system | JavaScript, HTML5, CSS3 |
+| 🎉 **[Events App](https://github.com/nkrisnaraj/events_app-ReactNative-Django)** | Cross-platform event management | React Native, Django, Python |
+| 🎓 **[Online Learning System](https://github.com/nkrisnaraj/Online_learning_system)** | Console-based LMS | C Language |
+| 📧 **[Email BCC Tool](https://github.com/nkrisnaraj/mail-Bcc)** | Email BCC management utility | JavaScript, Email APIs |
+| 🕐 **[Analog Clock](https://github.com/nkrisnaraj/Analog_clock)** | Pure CSS animated clock | HTML5, CSS3, JavaScript |
+| 👤 **[Profile Repository](https://github.com/nkrisnaraj/nkrisnaraj)** | GitHub profile README | Markdown |
 
 </div>
 
@@ -284,6 +282,8 @@ Pure CSS animated analog clock with modern design elements.
 
 ⭐ **Star my repositories if you find them interesting!**
 
-![Snake animation](https://github.com/nkrisnaraj/nkrisnaraj/blob/output/github-contribution-grid-snake.svg)
+---
+
+**© 2026 Krisnaraj Navaraththinasingam | Made with 💻 and ☕**
 
 </div>
